@@ -112,6 +112,10 @@ body {
   margin-top: 8%;
   margin-bottom: 1%;
 }
+.cvButton:hover{
+  background: #d4693d;
+  cursor: pointer;
+}
 .How-I-Work{
   display: flex;
   flex-direction: column;
